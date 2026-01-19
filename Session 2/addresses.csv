@@ -1,0 +1,13 @@
+﻿id,name,category,address,latitude,longitude
+1,University of Toronto,hub,"700 Example Ave, Toronto, ON",43.659016,-79.391191
+2,Customer_00,customer,"100 Example Ave, Toronto, ON",43.657028,-79.401253
+3,Customer_01,customer,"10 Maple St, Toronto, ON",43.6605,-79.395
+4,Customer_02,customer,"15 Maple St, Toronto, ON",43.6558,-79.392
+5,Customer_03,customer,"20 Oak St, Toronto, ON",43.6612,-79.3995
+6,Customer_04,customer,"25 Oak St, Toronto, ON",43.6567,-79.3982
+7,Restaurant_01,restaurant,"5 King St, Toronto, ON",43.6584,-79.3935
+8,Restaurant_02,restaurant,"7 King St, Toronto, ON",43.6599,-79.4001
+9,Restaurant_03,restaurant,"9 King St, Toronto, ON",43.6576,-79.3898
+10,Pickup_Point_01,pickup,"1 Queen St, Toronto, ON",43.6549,-79.3967
+11,Dropoff_01,dropoff,"3 Queen St, Toronto, ON",43.6623,-79.3944
+12,Dropoff_02,dropoff,"5 Queen St, Toronto, ON",43.6608,-79.4023
